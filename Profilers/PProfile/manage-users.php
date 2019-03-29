@@ -81,7 +81,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../Homepage/index.php">Home CIT-PMS</a></li>
+               <li><a href="../../Homepage/index.php">Home GEC-PMS</a></li>
                 <li><a href="../../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php">Notification</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -212,8 +212,9 @@ $prev = $currentpage-1;
 </ul>
 </div>
         <footer class="text-right">
-            <p>Copyright &copy; 2001-2015 CIT-PMS
-            | Developed by <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumērique Technologies</a></p>
+            <p>Copyright &copy; 2001-2015 GEC-PMS
+            | Developed by <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+          </p>
           </footer>         
         </div>
       </div>

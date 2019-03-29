@@ -81,7 +81,7 @@
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
                 <li>
-                  <a href="../../Homepage/index.php">Home CIT-PMS</a>
+                  <a href="../../Homepage/index.php">Home GEC-PMS</a>
                 </li>
                 <li>
                   <a href="../../Drives/index.php">Drives Homepage</a>
@@ -101,7 +101,7 @@
             <div class="templatemo-content-widget white-bg col-2">
               <i class="fa fa-times"></i>
               <div class="square"></div>
-              <h2 class="templatemo-inline-block">Welcome to CIT-PMS</h2>
+              <h2 class="templatemo-inline-block">Welcome to GEC-PMS</h2>
               <hr>
               <p>Work is Magic and it defines you at every aspect of ur life. As you Work Hard u will become smart and the Irony is Every Smart worker will be a Successfull man where as worthless hardwork is like a monkey finding gold in a sea.
                 <a href="preferences.php""
@@ -161,7 +161,7 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Upcomming Events</h2>
-                    <p>Brace yourself for the Events that will take ur breath away. Get Started and be a Part of CIT-PMS Family</p>
+                    <p>Brace yourself for the Events that will take ur breath away. Get Started and be a Part of GEC-PMS Family</p>
                   </div>
                 </div>
               </div>
@@ -221,8 +221,8 @@
           </div>
           <!-- Second row ends -->
           <footer class="text-right">
-            		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+            		<p>Copyright &copy; 2015 GEC-PMS | Developed by
+              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
 			  </p>
           </footer>
         </div>

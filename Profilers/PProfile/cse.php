@@ -40,7 +40,7 @@
   <body>
   <div class="bg">
   <div class="templatemo-content-container">
- <center><h2>Approved Students List of CSE</h2></center>
+ <center><h2>Approved Students List of CE</h2></center>
           <div class="templatemo-content-widget no-padding">
             <div class="panel panel-default table-responsive">
 			<table class="table table-striped table-bordered templatemo-user-table">

@@ -81,8 +81,8 @@ print "</td></tr></center>";
 ?>
 <footer class="text-right">
            
-					<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyright &copy; 2015 GEC-PMS | Developed by
+             <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
 				
           </footer>         
         </div>

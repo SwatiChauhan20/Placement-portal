@@ -42,7 +42,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</span>
 						<ul class="nav1">
 							<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">CIT-PMS<i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">GEC-PMS<i>Goto Placement Homepage</i></a>
 							</li>
 							<li class="hvr-sweep-to-bottom active">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
@@ -213,15 +213,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="testimonial-nfo wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Our Motto</h3>
-					<h5>We Just Learn with you and we give u a Platform to Improve Youirself</span>
+					<h5>To contribute to the nation by providing high quality technical education to bring out technically competent, socially responsible, environment conscious and ethically sound engineers.</span>
 					</h5>
 				</div>
 				<div class="testimonial-grids wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<div class="testimonial-grid">
 						<p>
-							<span>"</span>Our Institution is Built with the Endeveour of some great people and We are determined to Express ouselves with
-							the Property of True Family Environment. We are Happy to make you learn. Try to Enrich Yourself and Implement to Know More
-							than Us.
+							<span>"</span>To shape our institution to provide high quality technical education to the students, to create vibrant atmosphere to motivate students for learning and to make our institution preferred destination for learners in the field of technical education.
 							<span>"</span>
 						</p>
 					</div>
@@ -265,16 +263,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>CIT, NH 206 BH Road
-							<span>Gubbi,Tumkur</span>
+						<p>GEC, Mavdi-Kankot Road,
+							<span>Near Hanuman Temple, Rajkot</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 8131 223818/223365</p>
+						<p>+91 9978287873</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<h6 style="color: white">Channabasaveshwara Institute of Technology</h6>
+					<h6 style="color: white">Government Engineering College</h6>
 					<h4>
 						<a href="../Homepage/index.php" style="color: white">Placement Management System</a>
 					</h4>
@@ -289,8 +287,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					 <p>Copyright &copy; 2015 GEC-PMS | Developed by
+              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

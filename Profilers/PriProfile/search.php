@@ -40,8 +40,8 @@
           </div>     
           
           <footer class="text-right">
-            <p>Copyright &copy; 2015 CIT-PMS | Designed by
-              <a href="http://www.wafferdevelopers.com" target="_parent">Waffer Developers</a>
+            <p>Copyright &copy; 2015 GEC-PMS | Designed by
+              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
             </p>
           </footer>      
         </div>

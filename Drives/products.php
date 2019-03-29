@@ -4,7 +4,7 @@
 		<!--favicon-->
 		<link rel="shortcut icon" href="favicon.ico" type="image/icon">
 		<link rel="icon" href="favicon.ico" type="image/icon">
-		<title>CIT-PMS | Campus Drives</title>
+		<title>GEC-PMS | Campus Drives</title>
 		<meta name="viewport"
 		content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
@@ -60,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<ul class="nav1">
 							
 							<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">CIT-PMS<i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">GEC-PMS<i>Goto Placement Homepage</i></a>
 							</li>
 							<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
@@ -258,16 +258,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>CIT, NH 206 BH Road
-							<span>Gubbi,Tumkur</span>
+						<p>GEC, Mavdi-Kankot Road,
+							<span>Near Hanuman Temple, Rajkot</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 8131 223818/223365</p>
+						<p>+91 9978287873</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<h6 style="color: white">Channabasaveshwara Institute of Technology</h6>
+					<h6 style="color: white">Government Engineering College</h6>
 					<h4>
 						<a href="../Homepage/index.php" style="color: white">Placement Management System</a>
 					</h4>
@@ -282,7 +282,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
+					 <p>Copyright &copy; 2015 GEC-PMS | Developed by
               <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">

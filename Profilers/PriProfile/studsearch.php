@@ -58,8 +58,9 @@
 					</form>					
 </center>
 <footer class="text-right">
-            <p>Copyright &copy; 2001-2015 CIT-PMS
-            | Developed by <a href="http://www.Wafferdevelopers.com" target="_parent">Waffer Developers</a></p>
+            <p>Copyright &copy; 2001-2019 GEC-PMS
+            | Developed by <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+        </p>
           </footer>         
         </div>
       </div>
