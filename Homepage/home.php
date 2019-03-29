@@ -31,107 +31,109 @@
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+        
     </head>
     
     <body id="page-top">
-        
-        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style="background:black">
-            <div class="container-fluid">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            
+            <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style="background:black">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand page-scroll" href="http://www.gecrj.cteguj.in">Government Engineering College</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a class="page-scroll" href="../Profilers/SProfile/index.php">Student Login</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="../Profilers/HODProfile/index.php">HOD Login</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="../Profilers/PProfile/index.php">Placement Login</a>
+                            </li>
+                            <li>
+                                <a class="page-scroll" href="../Profilers/PriProfile/index.php">Administrative Login</a>
+                            </li>
+                        </ul>
                         
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand page-scroll" href="http://www.gecrj.cteguj.in">Government Engineering College</a>
+                    </div>
+                    <!-- /.navbar-collapse -->
                 </div>
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a class="page-scroll" href="../Profilers/SProfile/index.php">Student Login</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="../Profilers/HODProfile/index.php">HOD Login</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="../Profilers/PProfile/index.php">Placement Login</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="../Profilers/PriProfile/index.php">Administrative Login</a>
-                        </li>
-                    </ul>
-                    
+                <!-- /.container-fluid -->
+            </nav>
+            <header>
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1>PLACEMENT MANAGEMENT SYSTEM</h1>
+                        <hr>
+                        <p>We are here to Build your Skills and Career with our Driven Passion and Reality.</br>Click Below to Get Our Current Drive
+                        Details</p>
+                        <a href="../Drives/index.php" class="btn btn-primary btn-xl page-scroll">Current Drives</a>
+                    </div>
                 </div>
-                <!-- /.navbar-collapse -->
-            </div>
-            <!-- /.container-fluid -->
-        </nav>
-        <header>
-            <div class="header-content">
-                <div class="header-content-inner">
-                    <h1>PLACEMENT MANAGEMENT SYSTEM</h1>
-                    <hr>
-                    <p>We are here to Build your Skills and Career with our Driven Passion and Reality.</br>Click Below to Get Our Current Drive
-                    Details</p>
-                    <a href="../Drives/index.php" class="btn btn-primary btn-xl page-scroll">Current Drives</a>
-                </div>
-            </div>
-        </header>
-        <div class="footer">
-         <div class="container">
-            <div class="col-md-3 ftr_navi ftr">
-               <h3>NAVIGATION</h3>
+            </header>
+            <div class="footer">
+             <div class="container">
+                <div class="col-md-3 ftr_navi ftr">
+                   <h3>NAVIGATION</h3>
+                   <ul>
+                      <li>
+                         <a href="../Homepage/index.php">Home</a>
+                     </li>
+                     <li>
+                         <a href="../Profilers/SProfile/index.php">Student Login</a>
+                     </li>
+                     <li>
+                         <a href="../Profilers/PProfile/index.php">Placement Login</a>
+                     </li>
+                     <li>
+                         <a href="../Profilers/HODProfile/index.php">HOD Login</a>
+                     </li>
+                     <li>
+                         <a href="../Profilers/Priprofile/index.php">Administrative Login</a>
+                     </li>
+                 </ul>
+             </div>
+             <div class="col-md-3 ftr_navi ftr">
+               <h3>MEMBERS</h3>
                <ul>
                   <li>
-                     <a href="../Homepage/index.php">Home</a>
+                     <a href="#">Customer Support</a>
                  </li>
                  <li>
-                     <a href="../Profilers/SProfile/index.php">Student Login</a>
+                     <a href="#">Placement Support</a>
                  </li>
                  <li>
-                     <a href="../Profilers/PProfile/index.php">Placement Login</a>
+                     <a href="#">Faculty Support</a>
                  </li>
                  <li>
-                     <a href="../Profilers/HODProfile/index.php">HOD Login</a>
+                     <a href="#">Registered Companies</a>
                  </li>
                  <li>
-                     <a href="../Profilers/Priprofile/index.php">Administrative Login</a>
+                     <a href="#">Training</a>
                  </li>
              </ul>
          </div>
-         <div class="col-md-3 ftr_navi ftr">
-           <h3>MEMBERS</h3>
-           <ul>
-              <li>
-                 <a href="#">Customer Support</a>
-             </li>
-             <li>
-                 <a href="#">Placement Support</a>
-             </li>
-             <li>
-                 <a href="#">Faculty Support</a>
-             </li>
-             <li>
-                 <a href="#">Registered Companies</a>
-             </li>
-             <li>
-                 <a href="#">Training</a>
-             </li>
-         </ul>
-     </div>
-     <div class="col-md-3 get_in_touch ftr">
-       <h3>GET IN TOUCH</h3>
-       <p>GEC, Mavdi-Kankot Road,</p>
-       <p>Near Hanuman Temple, Rajkot</p>
-       <p>+91 9978287873</p>
-       <a href="mailto:gec-rajkot-dte@gujarat.gov.in">gec-rajkot-dte@gujarat.gov.in</a>
-   </div>
-   <div class="col-md-3 ftr-logo">
-       <p>Copyright &copy; 2015 GEC-PMS | Developed by
-          <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+         <div class="col-md-3 get_in_touch ftr">
+           <h3>GET IN TOUCH</h3>
+           <p>GEC, Mavdi-Kankot Road,</p>
+           <p>Near Hanuman Temple, Rajkot</p>
+           <p>+91 9978287873</p>
+           <a href="mailto:gec-rajkot-dte@gujarat.gov.in">gec-rajkot-dte@gujarat.gov.in</a>
+       </div>
+       <div class="col-md-3 ftr-logo">
+           <p>Copyright &copy; 2015 GEC-PMS | Developed by
+              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+          </p>
       </div>
       <div class="clearfix"></div>
   </div>
