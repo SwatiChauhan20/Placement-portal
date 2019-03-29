@@ -10,7 +10,7 @@
         <!--favicon-->
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
         <link rel="icon" href="favicon.ico" type="image/icon">
-        <title>CIT-PMS Home</title>
+        <title>GEC-PMS Home</title>
         <!-- Bootstrap Core CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
         <!-- Footer -->
@@ -34,7 +34,6 @@
     </head>
     
     <body id="page-top">
-        
         <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style="background:black">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
@@ -45,7 +44,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="http://www.cittumkur.org">Channabasaveshwara Institute of Technology</a>
+                    <a class="navbar-brand page-scroll" href="http://www.gecrj.cteguj.in">Government Engineering College- Rajkot</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -60,7 +59,7 @@
                             <a class="page-scroll" href="../Profilers/PProfile/index.php">Placement Login</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="../Profilers/PriProfile/index.php">Administrative Login</a>
+                            <a class="page-scroll" href="../Profilers/PriProfile/index.php">TPO Login</a>
                         </li>
                     </ul>
                 
@@ -98,16 +97,13 @@
 							<a href="../Profilers/HODProfile/index.php">HOD Login</a>
 						</li>
 						<li>
-							<a href="../Profilers/Priprofile/index.php">Administrative Login</a>
+							<a href="../Profilers/Priprofile/index.php">TPO Login</a>
 						</li>
 					</ul>
 				</div>
 				<div class="col-md-3 ftr_navi ftr">
 					<h3>MEMBERS</h3>
 					<ul>
-						<li>
-							<a href="#">Customer Support</a>
-						</li>
 						<li>
 							<a href="#">Placement Support</a>
 						</li>
@@ -123,15 +119,16 @@
 					</ul>
 				</div>
 				<div class="col-md-3 get_in_touch ftr">
-					<h3>GET IN TOUCH</h3>
-					<p>NH4, Herur</p>
-					<p>Gubbi, Tumkur, India</p>
-					<p>08138-223818/223365</p>
-					<a href="mailto:cittumkur@rediffmail.com">cittumkur@rediffmail.com</a>
+					<h3>Government Engineering College-Rajkot</h3>
+					<p>Mavdi Road</p>
+					<p>Kankot Road</p>
+					<p>near hanuman mandir</p>
+                    <p>Gujarat-360005</p>
+					<a href="mailto:chauhan.swati104@gmail.com">gec-rajkot-dte@gujarat.gov.in</a>
 				</div>
 				<div class="col-md-3 ftr-logo">
-					<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+					<p>Copyright &copy; 2019 GEC-PMS | Developed by
+              <a href="#" target="_parent">Swati Chauhan | Rachana Gohel</a>
 				</div>
 				<div class="clearfix"></div>
 			</div>
