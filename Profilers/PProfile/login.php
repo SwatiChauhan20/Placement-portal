@@ -74,7 +74,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../Homepage/index.php">Home CIT-PMS</a></li>
+               <li><a href="../../Homepage/index.php">Home GEC-PMS</a></li>
                 <li><a href="../../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -87,9 +87,9 @@
             <div class="templatemo-content-widget white-bg col-2">
               <i class="fa fa-times"></i>
               <div class="square"></div>
-              <h2 class="templatemo-inline-block">Welcome to CIT-OPMS</h2>
+              <h2 class="templatemo-inline-block">Welcome to GEC-OPMS</h2>
               <p></p>
-              <p>Hello Officer! Have a great day with us! With CIT-PMS Account, You can add drives, Send Notifications and View the Eligibility Criteria of Students.</p>
+              <p>Hello Officer! Have a great day with us! With GEC-PMS Account, You can add drives, Send Notifications and View the Eligibility Criteria of Students.</p>
               <p>Hope you enjoy doing that. Greetings!!</p>
               <p><a href="PlacementDrives.php">Placement Drives</a></p>
               <p><a href="manage-users.php">View Students</a></p>
@@ -201,8 +201,8 @@
           </div> <!-- Second row ends -->
         
           <footer class="text-right">
-           <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           <p>Copyright &copy; 2015 GEC-PMS | Developed by
+              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
             </p>
           </footer>         
         </div>

@@ -39,7 +39,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span class="menu"><img src="images/menu.png" alt=""></span>
 					<ul class="nav1">
 						<li class="hvr-sweep-to-bottom">
-								<a href="../Homepage/index.php">CIT-PMS<i>Goto Placement Homepage</i></a>
+								<a href="../Homepage/index.php">GEC-PMS<i>Goto Placement Homepage</i></a>
 							</li>
 						<li class="hvr-sweep-to-bottom">
 								<a href="index.php">Home<i>Get the Overview of the Site</i></a>
@@ -89,7 +89,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					  <h3>Placement and Training Department</h3>
 						<h5></span></h5>
-						<p>Our Institute is located near Tumkur, a well known place of learning. Our college is affiliated to Visvesvaraya Technological University, Belgaum (Karnataka), recognized by AICTE, New Delhi, & by Government of Karnataka. Within a short span of 10 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated A Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
+						<p>GEC Rajkot was established by Government of Gujarat in the year 2004 with a vision to provide quality technical education to bring out technically competent, socially responsible, environmentally conscious and ethically sound engineers in tune with India’s vision to transform the nation into a developed country. Institute is located opposite to Kankot Village which is 15 minute drive from Rajkot City. Rajkot is central location of Saurashtra and Kutch region. This institute is approved by All India Council for Technical Education (AICTE) and affiliated to Gujarat Technological University, Ahmedabad. Institute offers programs in Electronics & Communication Engineering, Computer Engineering, Instrumentation and Control Engineering, Mechanical Engineering, Civil Engineering, Automobile Engineering and Electrical Engineering. 
 						</p>
 					</div>
 				</div>
@@ -107,7 +107,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-bottom-grids">
 				<div class="col-md-6 about-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					<h4>What We Offer?</h4>
-					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Science and Engineering, Electronics and communication, Electrical and Electronics, Civil, Mechanical, and 03  post graduate courses viz. M.Tech in Computer Science, M.Tech in Electronics and Master of Business Administration (MBA). The Institute has facilities for doctoral research in Computer Science and Electronics. 
+					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Science and Engineering, Electronics and communication, Electrical and Electronics, Civil, Mechanical, and 03  post graduate courses viz. M.Tech in Computer Science, The Institute has facilities for doctoral research in Computer Science and Electronics. 
 					</p>
 				</div>
 				<div class="col-md-6 about-bottom-left about-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
@@ -131,8 +131,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="team-grids">
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<img src="images/b7.jpg" alt="">
-						<h6>Shantala Suresh</h6>
-						<p> Vice-Principal and HOD CSE Department</p>
+						<h6>Dhara Buch</h6>
+						<p>CE Department</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<img src="images/b10.jpg" alt="">
@@ -146,8 +146,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<img src="images/b9.jpg" alt="">
-						<h6>Rohini Hulikal</h6>
-						<p>PTO Incharge</p>
+						<h6>Hitarth Buch</h6>
+						<p>TPO Incharge</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -186,16 +186,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Address</h3>
 					<div class="address">
-						<p>CIT, NH 206 BH Road
-							<span>Gubbi,Tumkur</span>
+						<p>GEC, Mavdi-Kankot Road,
+							<span>Near Hanuman Temple, Rajkot</span>
 						</p>
 					</div>
 					<div class="phone">
-						<p>+91 8131 223818/223365</p>
+						<p>+91 9978287873</p>
 					</div>
 				</div>
 				<div class="col-md-3 footer-right  wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<h6 style="color: white">Channabasaveshwara Institute of Technology</h6>
+					<h6 style="color: white">Government Engineering College</h6>
 					<h4>
 						<a href="../Homepage/index.php" style="color: white">Placement Management System</a>
 					</h4>
@@ -210,7 +210,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 CIT-PMS | Developed by
+					 <p>Copyright &copy; 2015 GEC-PMS | Developed by
               <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
 					</p>
 				</div>

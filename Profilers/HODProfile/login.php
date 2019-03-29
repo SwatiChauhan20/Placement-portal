@@ -1,33 +1,33 @@
 <?php
-  session_start();
- if (isset($_SESSION['husername'])){
-    
-  }
-   else {
-	   header("location: index.php");
-   }
+session_start();
+if (isset($_SESSION['husername'])){
+  
+}
+else {
+  header("location: index.php");
+}
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!--favicon-->
-        <link rel="shortcut icon" href="image/favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">  
-    <title>HOD Profile</title>
-    <meta name="description" content="">
-    <meta name="author" content="templatemo">
-    
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/templatemo-style.css" rel="stylesheet">
-    
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<head>
+  <!--favicon-->
+  <link rel="shortcut icon" href="image/favicon.ico" type="image/icon">
+  <link rel="icon" href="favicon.ico" type="image/icon">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">  
+  <title>HOD Profile</title>
+  <meta name="description" content="">
+  <meta name="author" content="templatemo">
+  
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/templatemo-style.css" rel="stylesheet">
+  
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -40,13 +40,13 @@
       <div class="templatemo-sidebar">
         <header class="templatemo-site-header">
           <div class="square"></div>
-         <?php
-		  $Welcome = "Welcome";
+          <?php
+          $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['husername']. "</h1>";
-		   echo "<h1>(</h1>";
-		    echo "<h1>" . $_SESSION['department']. "</h1>";   
-            echo "<h1>)</h1>";
-		  ?>
+          echo "<h1>(</h1>";
+          echo "<h1>" . $_SESSION['department']. "</h1>";   
+          echo "<h1>)</h1>";
+          ?>
         </header>
         <div class="profile-photo-container">
           <img src="images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">  
@@ -55,12 +55,12 @@
         <!-- Search box -->
         <form class="templatemo-search-form" role="search">
           <div class="input-group">
-              <button type="submit" class="fa fa-search"></button>
-              <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">           
+            <button type="submit" class="fa fa-search"></button>
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">           
           </div>
         </form>
         <div class="mobile-menu-icon">
-            <i class="fa fa-bars"></i>
+          <i class="fa fa-bars"></i>
         </div>
         <nav class="templatemo-left-nav">          
           <ul>
@@ -77,10 +77,10 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                <li><a href="../../Homepage/index.php">Home CIT-PMS</a></li>
+                <li><a href="../../Homepage/index.php">Home GEC-PMS</a></li>
                 <li><a href="../../Drives/index.php">Drives</a></li>
-    <li><a href="Notif.php">Notification</a></li>
-	<li><a href="Change Password.php">Change Password</a></li>
+                <li><a href="Notif.php">Notification</a></li>
+                <li><a href="Change Password.php">Change Password</a></li>
               </ul>  
             </nav> 
           </div>
@@ -90,7 +90,7 @@
             <div class="templatemo-content-widget white-bg col-2">
               <i class="fa fa-times"></i>
               <div class="square"></div>
-              <h2 class="templatemo-inline-block">Welcome to CIT-PMS</h2><hr>
+              <h2 class="templatemo-inline-block">Welcome to GEC-PMS</h2><hr>
               <p>Being The Head of the Department, Its the Duty of you to take your students and Faculties to the right way. Approve the details of students in Manage Students tab. You may Revoke the Details and Approve them if it is Wrong and Entered Correctly Respectively.</p> 
               <p><a href="manage-student.php">Approve the Students</a></p>
               <p><a href="manage-student.php">View Student Details</a></p>
@@ -199,10 +199,10 @@
               </div>
             </div>           
           </div> <!-- Second row ends -->
-      
+          
           <footer class="text-right">
-           <p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           <p>Copyright &copy; 2015 GEC-PMS | Developed by
+            <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
           </footer>         
         </div>
       </div>
@@ -216,4 +216,4 @@
     <script type="text/javascript" src="js/templatemo-script.js"></script>      <!-- Templatemo Script -->
 
   </body>
-</html>
+  </html>
