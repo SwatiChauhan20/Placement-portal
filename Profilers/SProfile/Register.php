@@ -1,247 +1,231 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<!--favicon-->
-        <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">
-		<meta charset="utf-8">
-	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	    <meta name="viewport" content="width=device-width, initial-scale=1">  
-	    <title>Student Register</title>
-        <meta name="description" content="">
-        <meta name="author" content="templatemo">
-	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
-	    <link href="css/font-awesome.min.css" rel="stylesheet">
-	    <link href="css/bootstrap.min.css" rel="stylesheet">
-	    <link href="../../Homepage/css/jquery-ui.css" rel="stylesheet">
-	    <link href="css/templatemo-style.css" rel="stylesheet">
-		<!-- Footer -->
-        <link type="text/css" rel="stylesheet" href="../../Homepage/css/style.css">
-	    
-	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<head>
+	<!--favicon-->
+	<link rel="shortcut icon" href="favicon.ico" type="image/icon">
+	<link rel="icon" href="favicon.ico" type="image/icon">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">  
+	<title>Student Register</title>
+	<meta name="description" content="">
+	<meta name="author" content="templatemo">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="../../Homepage/css/jquery-ui.css" rel="stylesheet">
+	<link href="css/templatemo-style.css" rel="stylesheet">
+	<!-- Footer -->
+	<link type="text/css" rel="stylesheet" href="../../Homepage/css/style.css">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	    <!--[if lt IE 9]>
 	      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	    <![endif]-->
+	  <![endif]-->
 	</head>
 	<body class="light-gray-bg">
 
 		<section>
-		<div class="container">
-			<div id="register_steps_tab">
-				<h3><span class="step_number">1</span>user info</h3>
-				<div class="step_content">
-					<div class="row">
-						<div class="col-sm-6 centered">
-							<h3>User Account Info</h3>
-							<form class="user_acc_info">
-								<div class="form_input">
-									<label>Email *</label>
-									<input type="text" class="input_text" placeholder="Enter your email">
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Create Password *</label>
-											<input type="password" class="input_text" placeholder="*****">
+			<div class="container">
+				<div id="register_steps_tab">
+					<h3><span class="step_number">1</span>Student Information</h3>
+					<div class="step_content">
+						<div class="row">
+							<div class="col-sm-6 centered">
+								<h3>Student Account</h3>
+								<form class="user_acc_info">
+									<div class="form_input">
+										<label>Enrollment Number*</label>
+										<input type="text" class="input_text" placeholder="Enrollment Number">
+									</div>
+									<div class="form_input">
+										<label>Full Name *</label>
+										<input type="text" class="input_text" placeholder="Enter FullName">
+									</div>
+									<div class="form_input">
+										<label>Email *</label>
+										<input type="text" class="input_text" placeholder="Enter your email">
+									</div>
+									<div class="form_input">
+										<label>Mobile Number *</label>
+										<input type="text" class="input_text" placeholder="Enter Mobile Number">
+									</div>
+									<div class="row">
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Create Password *</label>
+												<input type="password" class="input_text" placeholder="*****">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Confirm Password *</label>
+												<input type="password" class="input_text" placeholder="*****">
+											</div>
 										</div>
 									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Confirm Password *</label>
-											<input type="password" class="input_text" placeholder="*****">
-										</div>
+									<div class="next_step_and_prev_step">
+										<a href="javascript:void(0);" class="next_step">Next</a>
 									</div>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
-							</form>
+								</form>
+							</div>
 						</div>
 					</div>
-				</div>
-				<h3><span class="step_number">2</span>Contact Information</h3>
-				<div class="step_content">
-					<div class="row">
-						<div class="col-sm-6 centered">
-							<h3>Contact Information</h3>
-							<form class="contact_info">
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>First Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
+					<h3><span class="step_number">2</span>Education Information</h3>
+					<div class="step_content">
+						<div class="row">
+							<div class="col-sm-6 centered">
+								<h3></h3>
+								<form class="contact_info">
+									<div class="row">
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Semester *</label>
+												<input type="text" class="input_text">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Department *</label>
+												<input type="text" class="input_text">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>10th/ 12th *</label>
+												<input type="text" class="input_text">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>CPI/SPI *</label>
+												<input type="text" class="input_text">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Backlog *</label>
+												<input type="text" class="input_text">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Current Backlog *</label>
+												<input type="text" class="input_text">
+											</div>
 										</div>
 									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Last Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
-										</div>
+									<div class="form_input">
+										<label>Technology *</label>
+										<input type="text" class="input_text" placeholder="java/php/node/....">
 									</div>
-								</div>
-								<div class="form_input">
-									<label>Business Name *</label>
-									<input type="text" class="input_text" placeholder="Enter phone number">
-								</div>
-								<div class="form_input">
-									<label>Phone Number *</label>
-									<input type="text" class="input_text" placeholder="Enter phone number">
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
-							</form>
+									<div class="form_input">
+										<label>Job Location *</label>
+										<input type="text" class="input_text" placeholder="Rajkot/Ahemadabad/....">
+									</div>
+									<div class="form_input">
+										<label>Area of Interest *</label>
+										<input type="text" class="input_text">
+									</div>
+									<div class="next_step_and_prev_step">
+										<a href="javascript:void(0);" class="prev_step">Previous</a>
+										<a href="javascript:void(0);" class="next_step">Next</a>
+									</div>
+								</form>
+							</div>
 						</div>
 					</div>
-				</div>
-				<h3><span class="step_number">3</span>Billing Details</h3>
-				<div class="step_content">
-					<div class="row">
-						<div class="col-sm-6 centered">
-							<h3>Billing Address</h3>
-							<form class="billing_address">
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>First Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
+					<h3><span class="step_number">3</span>Communication Details</h3>
+					<div class="step_content">
+						<div class="row">
+							<div class="col-sm-6 centered">
+								<h3>Address</h3>
+								<form class="billing_address">
+									<div class="row">
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>First Name *</label>
+												<input type="text" class="input_text" placeholder="Enter first name">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Last Name *</label>
+												<input type="text" class="input_text" placeholder="Enter first name">
+											</div>
 										</div>
 									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Last Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
+									<div class="form_input">
+										<label>Phone Number *</label>
+										<input type="text" class="input_text" placeholder="Enter phone number">
+									</div>
+									<div class="form_input">
+										<label>Address *</label>
+										<input type="text" class="input_text" placeholder="Enter address">
+									</div>
+									<div class="form_input">
+										<label>Address Line 2</label>
+										<input type="text" class="input_text" placeholder="Enter address">
+									</div>
+									<div class="row">
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>City *</label>
+												<input type="text" class="input_text" placeholder="Enter city">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>State *</label>
+												<input type="text" class="input_text" placeholder="Enter state">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Zip Code *</label>
+												<input type="text" class="input_text" placeholder="Enter zip code">
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="form_input">
+												<label>Country *</label>
+												<input type="text" class="input_text" placeholder="Enter Country">
+											</div>
 										</div>
 									</div>
-								</div>
-								<div class="form_input">
-									<label>Phone Number *</label>
-									<input type="text" class="input_text" placeholder="Enter phone number">
-								</div>
-								<div class="form_input">
-									<label>Address *</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="form_input">
-									<label>Address Line 2</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>City *</label>
-											<input type="text" class="input_text" placeholder="Enter city">
-										</div>
+									<div class="next_step_and_prev_step">
+										<a href="javascript:void(0);" class="prev_step">Previous</a>
+										<a href="javascript:void(0);" class="next_step">Next</a>
 									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>State/Province *</label>
-											<input type="text" class="input_text" placeholder="Enter state/province">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Zip/Postal Code *</label>
-											<input type="text" class="input_text" placeholder="Enter zip/postal code">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Country *</label>
-											<select class="input_text">
-												<option>United States</option>
-												<option>India</option>
-											</select>
-										</div>
-									</div>
-								</div>
-								<div class="bill_check_box">
-									<input type="checkbox" id="chk_1">
-									<label for="chk_1">Shipping address is the same as billing</label>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
-							</form>
+								</form>
+							</div>
 						</div>
 					</div>
-				</div>
-				<h3><span class="step_number">4</span>shipping Details</h3>
-				<div class="step_content">
-					<div class="row">
-						<div class="col-sm-6 centered">
-							<h3>Shipping Details</h3>
-							<form class="billing_address">
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>First Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
-										</div>
+					<h3><span class="step_number">4</span>Other Details</h3>
+					<div class="step_content">
+						<div class="row">
+							<div class="col-sm-6 centered">
+								<h3>Extra Activity / Session / Workshop</h3>
+								<form class="billing_address">
+									<div class="row">
+											<div class="form_input">
+												<label>Other Activity *</label>
+												<textarea class="input_text" style="resize: none; height: 100px;" placeholder="Extra Activity / Session / Workshop" ></textarea>
+											</div>
 									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Last Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
-										</div>
+									<div class="next_step_and_prev_step">
+										<a href="javascript:void(0);" class="prev_step">Previous</a>
+										<input type="submit" class="reg_submit_btn" value="Register">
 									</div>
-								</div>
-								<div class="form_input">
-									<label>Phone Number *</label>
-									<input type="text" class="input_text" placeholder="Enter phone number">
-								</div>
-								<div class="form_input">
-									<label>Address *</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="form_input">
-									<label>Address Line 2</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>City *</label>
-											<input type="text" class="input_text" placeholder="Enter city">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>State/Province *</label>
-											<input type="text" class="input_text" placeholder="Enter state/province">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Zip/Postal Code *</label>
-											<input type="text" class="input_text" placeholder="Enter zip/postal code">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Country *</label>
-											<select class="input_text">
-												<option>United States</option>
-												<option>India</option>
-											</select>
-										</div>
-									</div>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<input type="submit" class="reg_submit_btn" value="Register">
-								</div>
-							</form>
+								</form>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
+		</section>
 		<!-- <div class="templatemo-content-widget templatemo-login-widget white-bg">
 			<header class="text-center">
 	          <div class="square"></div>
@@ -317,7 +301,7 @@
 				<div class="col-md-3 ftr_navi ftr">
 					<h3>NAVIGATION</h3>
 					<ul>
-					<li>
+						<li>
 							<a href="../../Homepage/index.php">Home</a>
 						</li>
 						<li>
@@ -357,41 +341,41 @@
 				<div class="col-md-3 get_in_touch ftr">
 					<h3>GET IN TOUCH</h3>
 					<p>GEC, Mavdi-Kankot Road,</p>
-						<p>Near Hanuman Temple, Rajkot</p>
-						<p>+91 9978287873</p>
-						<a href="mailto:gec-rajkot-dte@gujarat.gov.in">gec-rajkot-dte@gujarat.gov.in</a>
+					<p>Near Hanuman Temple, Rajkot</p>
+					<p>+91 9978287873</p>
+					<a href="mailto:gec-rajkot-dte@gujarat.gov.in">gec-rajkot-dte@gujarat.gov.in</a>
+				</div>
+				<div class="col-md-3 ftr-logo">
+					<p>Copyright &copy; 2019 GEC-PMS | Developed by
+						<a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
 					</div>
-					<div class="col-md-3 ftr-logo">
-						<p>Copyright &copy; 2019 GEC-PMS | Developed by
-							<a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
-						</div>
-					</div>
+				</div>
 				<div class="clearfix"></div>
 			</div>
 			<script type="text/javascript" src="../../Homepage/js/jquery.js"></script>
 			<script type="text/javascript" src="../../Homepage/js/jquery-ui.js"></script>
 			<script type="text/javascript">
 				$( ".day_wise_itinerary_accordion" ).accordion({
-        collapsible: true,
-        heightStyle: "content"
-    });
+					collapsible: true,
+					heightStyle: "content"
+				});
     //js accordion end
 
     //js step next previous start
     $("#register_steps_tab").accordion({
-        heightStyle: "content"
+    	heightStyle: "content"
     });
     $('.next_step').click(function () {
-        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').next('.step_content').next('h3').trigger('click');
-        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').addClass('step_done');
+    	$('#register_steps_tab.ui-accordion .ui-accordion-header-active').next('.step_content').next('h3').trigger('click');
+    	$('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').addClass('step_done');
     });
     $('.prev_step').click(function () {
-        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').trigger('click');
-        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').removeClass('step_done');
+    	$('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').trigger('click');
+    	$('#register_steps_tab.ui-accordion .ui-accordion-header-active').removeClass('step_done');
     });
     //js step next previous end
-			</script>
-	</body>
+</script>
+</body>
 </html>
 <!--<
 // define variables and set to empty values
