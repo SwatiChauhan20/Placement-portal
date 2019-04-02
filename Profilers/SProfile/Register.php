@@ -13,6 +13,7 @@
 	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
 	    <link href="css/font-awesome.min.css" rel="stylesheet">
 	    <link href="css/bootstrap.min.css" rel="stylesheet">
+	    <link href="../../Homepage/css/jquery-ui.css" rel="stylesheet">
 	    <link href="css/templatemo-style.css" rel="stylesheet">
 		<!-- Footer -->
         <link type="text/css" rel="stylesheet" href="../../Homepage/css/style.css">
@@ -367,6 +368,8 @@
 					</div>
 				<div class="clearfix"></div>
 			</div>
+			<script type="text/javascript" src="../../Homepage/js/jquery.js"></script>
+			<script type="text/javascript" src="../../Homepage/js/jquery-ui.js"></script>
 			<script type="text/javascript">
 				$( ".day_wise_itinerary_accordion" ).accordion({
         collapsible: true,
