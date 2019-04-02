@@ -4,7 +4,7 @@
 	<meta http-equiv='refresh' content ='3; url=home.php'>
 	<link type="text/css" rel="stylesheet" href="css/loader.css">
 </head>
-<body  onload="myFunction()" style="background-color: #a8d8fe;">
+<body  onload="myFunction()" style="background-image: linear-gradient(white,#a8d8fe);">
 	<div id="loader"></div>
 	<div id="myDiv" class="animate">
 		<div style="

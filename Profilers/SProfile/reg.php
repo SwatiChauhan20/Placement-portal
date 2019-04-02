@@ -1,12 +1,18 @@
 <?php
-   $connect = mysql_connect("localhost", "root", ""); // Establishing Connection with Server
-   mysql_select_db("placement") or die("Cant Connect to database"); // Selecting Database from Server
-   
+   // $connect = mysqli_connect("localhost", "root", ""); // Establishing Connection with Server
+   // mysqli_select_db("placement") or die("Cant Connect to database"); // Selecting Database from Server
+   $con = mysqli_connect("localhost","root","","placement");
+
+// Check connection
+if (mysqli_connect_errno())
+  {
+  echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  }
    
 if(isset($_POST['submit']))
 { 
   
- $Name = $_POST['Fullname'];
+ $Name = $_POST['Fullname'];  `
  $USN = $_POST['USN'];
  $password = $_POST['PASSWORD'];
  $repassword = $_POST['repassword'];
@@ -15,14 +21,14 @@ if(isset($_POST['submit']))
    $Answer = $_POST['Answer'];
   
 
- $check = mysql_query("SELECT * FROM slogin WHERE USN='".$USN."'") or die("Check Query");
- if(mysql_num_rows($check) == 0) 
+ $check = mysqli_query($con,"SELECT * FROM slogin WHERE USN='".$USN."'") or die("Check Query");
+ if(mysqli_num_rows($check) == 0) 
  {
   if($repassword == $password)
   {
     
     
-    if($query = mysql_query("INSERT INTO slogin(Name, USN ,PASSWORD,Email,Question,Answer) VALUES ('$Name', '$USN', '$password','$Email','$Question','$Answer')"))
+    if($query = mysqli_query($con,"INSERT INTO slogin(Name, USN ,PASSWORD,Email,Question,Answer) VALUES ('$Name', '$USN', '$password','$Email','$Question','$Answer')"))
     {
                        echo "<center> You have registered successfully...!! Go back to  </center>";
 					             echo "<center><a href='index.php'>Login here</a> </center>";

@@ -131,8 +131,8 @@
            <a href="mailto:gec-rajkot-dte@gujarat.gov.in">gec-rajkot-dte@gujarat.gov.in</a>
        </div>
        <div class="col-md-3 ftr-logo">
-           <p>Copyright &copy; 2015 GEC-PMS | Developed by
-              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+           <p>Copyright &copy; 2019   GEC-PMS | Developed by
+              <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
           </p>
       </div>
       <div class="clearfix"></div>
