@@ -25,8 +25,223 @@
 	    <![endif]-->
 	</head>
 	<body class="light-gray-bg">
-		
-		<div class="templatemo-content-widget templatemo-login-widget white-bg">
+
+		<section>
+		<div class="container">
+			<div id="register_steps_tab">
+				<h3><span class="step_number">1</span>user info</h3>
+				<div class="step_content">
+					<div class="row">
+						<div class="col-sm-6 centered">
+							<h3>User Account Info</h3>
+							<form class="user_acc_info">
+								<div class="form_input">
+									<label>Email *</label>
+									<input type="text" class="input_text" placeholder="Enter your email">
+								</div>
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Create Password *</label>
+											<input type="password" class="input_text" placeholder="*****">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Confirm Password *</label>
+											<input type="password" class="input_text" placeholder="*****">
+										</div>
+									</div>
+								</div>
+								<div class="next_step_and_prev_step">
+									<a href="javascript:void(0);" class="next_step">Next</a>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<h3><span class="step_number">2</span>Contact Information</h3>
+				<div class="step_content">
+					<div class="row">
+						<div class="col-sm-6 centered">
+							<h3>Contact Information</h3>
+							<form class="contact_info">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>First Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Last Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+								</div>
+								<div class="form_input">
+									<label>Business Name *</label>
+									<input type="text" class="input_text" placeholder="Enter phone number">
+								</div>
+								<div class="form_input">
+									<label>Phone Number *</label>
+									<input type="text" class="input_text" placeholder="Enter phone number">
+								</div>
+								<div class="next_step_and_prev_step">
+									<a href="javascript:void(0);" class="prev_step">Previous</a>
+									<a href="javascript:void(0);" class="next_step">Next</a>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<h3><span class="step_number">3</span>Billing Details</h3>
+				<div class="step_content">
+					<div class="row">
+						<div class="col-sm-6 centered">
+							<h3>Billing Address</h3>
+							<form class="billing_address">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>First Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Last Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+								</div>
+								<div class="form_input">
+									<label>Phone Number *</label>
+									<input type="text" class="input_text" placeholder="Enter phone number">
+								</div>
+								<div class="form_input">
+									<label>Address *</label>
+									<input type="text" class="input_text" placeholder="Enter address">
+								</div>
+								<div class="form_input">
+									<label>Address Line 2</label>
+									<input type="text" class="input_text" placeholder="Enter address">
+								</div>
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>City *</label>
+											<input type="text" class="input_text" placeholder="Enter city">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>State/Province *</label>
+											<input type="text" class="input_text" placeholder="Enter state/province">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Zip/Postal Code *</label>
+											<input type="text" class="input_text" placeholder="Enter zip/postal code">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Country *</label>
+											<select class="input_text">
+												<option>United States</option>
+												<option>India</option>
+											</select>
+										</div>
+									</div>
+								</div>
+								<div class="bill_check_box">
+									<input type="checkbox" id="chk_1">
+									<label for="chk_1">Shipping address is the same as billing</label>
+								</div>
+								<div class="next_step_and_prev_step">
+									<a href="javascript:void(0);" class="prev_step">Previous</a>
+									<a href="javascript:void(0);" class="next_step">Next</a>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<h3><span class="step_number">4</span>shipping Details</h3>
+				<div class="step_content">
+					<div class="row">
+						<div class="col-sm-6 centered">
+							<h3>Shipping Details</h3>
+							<form class="billing_address">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>First Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Last Name *</label>
+											<input type="text" class="input_text" placeholder="Enter first name">
+										</div>
+									</div>
+								</div>
+								<div class="form_input">
+									<label>Phone Number *</label>
+									<input type="text" class="input_text" placeholder="Enter phone number">
+								</div>
+								<div class="form_input">
+									<label>Address *</label>
+									<input type="text" class="input_text" placeholder="Enter address">
+								</div>
+								<div class="form_input">
+									<label>Address Line 2</label>
+									<input type="text" class="input_text" placeholder="Enter address">
+								</div>
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>City *</label>
+											<input type="text" class="input_text" placeholder="Enter city">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>State/Province *</label>
+											<input type="text" class="input_text" placeholder="Enter state/province">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Zip/Postal Code *</label>
+											<input type="text" class="input_text" placeholder="Enter zip/postal code">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form_input">
+											<label>Country *</label>
+											<select class="input_text">
+												<option>United States</option>
+												<option>India</option>
+											</select>
+										</div>
+									</div>
+								</div>
+								<div class="next_step_and_prev_step">
+									<a href="javascript:void(0);" class="prev_step">Previous</a>
+									<input type="submit" class="reg_submit_btn" value="Register">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+		<!-- <div class="templatemo-content-widget templatemo-login-widget white-bg">
 			<header class="text-center">
 	          <div class="square"></div>
 	          <h1>Student Register</h1>
@@ -94,7 +309,7 @@
 		
 		<div class="templatemo-content-widget templatemo-login-widget templatemo-register-widget white-bg">
 			<p>Have an Account? <strong><a href="index.php" class="blue-text">Sign in here!</a></strong></p>
-		</div>
+		</div> -->
 		<!--footer-->
 		<div class="footer">
 			<div class="container">
@@ -152,6 +367,27 @@
 					</div>
 				<div class="clearfix"></div>
 			</div>
+			<script type="text/javascript">
+				$( ".day_wise_itinerary_accordion" ).accordion({
+        collapsible: true,
+        heightStyle: "content"
+    });
+    //js accordion end
+
+    //js step next previous start
+    $("#register_steps_tab").accordion({
+        heightStyle: "content"
+    });
+    $('.next_step').click(function () {
+        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').next('.step_content').next('h3').trigger('click');
+        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').addClass('step_done');
+    });
+    $('.prev_step').click(function () {
+        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').prev('.step_content').prev('h3').trigger('click');
+        $('#register_steps_tab.ui-accordion .ui-accordion-header-active').removeClass('step_done');
+    });
+    //js step next previous end
+			</script>
 	</body>
 </html>
 <!--<
