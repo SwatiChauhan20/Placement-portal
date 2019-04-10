@@ -55,13 +55,10 @@
                                 <a class="page-scroll" href="../Profilers/SProfile/index.php">Student Login</a>
                             </li>
                             <li>
-                                <a class="page-scroll" href="../Profilers/HODProfile/index.php">HOD Login</a>
+                                <a class="page-scroll" href="../Profilers/PProfile/index.php">TPO Login</a>
                             </li>
                             <li>
-                                <a class="page-scroll" href="../Profilers/PProfile/index.php">Placement Login</a>
-                            </li>
-                            <li>
-                                <a class="page-scroll" href="../Profilers/PriProfile/index.php">Administrative Login</a>
+                                <a class="page-scroll" href="../Profilers/HODProfile/index.php">Admin Login</a>
                             </li>
                         </ul>
                         
@@ -73,7 +70,7 @@
             <header>
                 <div class="header-content">
                     <div class="header-content-inner">
-                        <h1>PLACEMENT MANAGEMENT SYSTEM</h1>
+                        <h1>PLACEMENT PORTAL</h1>
                         <hr>
                         <p>We are here to Build your Skills and Career with our Driven Passion and Reality.</br>Click Below to Get Our Current Drive
                         Details</p>

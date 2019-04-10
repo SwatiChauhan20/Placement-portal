@@ -32,13 +32,13 @@ include 'index1.php';
 		<div class="templatemo-content-widget templatemo-login-widget white-bg">
 			<header class="text-center">
 				<div class="square"></div>
-				<h1>Principal Login</h1>
+				<h1>Admin Login</h1>
 			</header>
 			<form action="login1.php" class="templatemo-login-form" method="POST">
 				<div class="form-group">
 					<div class="input-group">
 						<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-						<input type="text" class="form-control" placeholder="Username" name="Username"">           
+						<input type="text" class="form-control" placeholder="Username" name="Username">           
 					</div>	
 				</div>
 				<div class="form-group">

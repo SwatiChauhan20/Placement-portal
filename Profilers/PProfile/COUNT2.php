@@ -1,13 +1,10 @@
 <?php
   session_start();
  if (isset($_SESSION['pusername'])){
-    
-	
 	   }
    else {
 	   header("location: index.php");
    }
-   
 ?>
 <!DOCTYPE html>
 <html>
@@ -17,14 +14,14 @@
 <center>
 <?php
 			
-mysql_connect('localhost','root','');
-mysql_select_db('details');
+mysqli_connect('localhost','root','');
+mysqli_select_db($con,'details');
 if(isset($_POST['submit']))
 { 
 $cname = $_POST['cname'];
-$sql = mysql_query("SELECT * FROM addpdrive WHERE `CompanyName`='$cname'");
+$sql = mysqli_query("SELECT * FROM addpdrive WHERE `CompanyName`='$cname'");
 
-while($row = mysql_fetch_assoc($sql))
+while($row = mysqli_fetch_assoc($sql))
 {
 	            print "<tr>"; 
 	print "<br><td>Date:";
@@ -53,9 +50,7 @@ print "</td></tr><br><br><br>";
 ?>
 <!--while ($row = mysql_fetch_assoc($rs_result)) 
 { 
-
             print "<tr>"; 
-
 print "<td>" . $row['FirstName'] . "</td>"; 
 print "<td>" . $row['LastName'] . "</td>"; 
 print "<td>" . $row['USN'] . "</td>"; 
@@ -70,12 +65,7 @@ print "<td>" . $row['BE'] . "</td>";
 print "<td>" . $row['Backlogs'] . "</td>";
 print "<td>" . $row['HofBacklogs'] . "</td>";
 print "<td>" . $row['DetainYears'] . "</td>";
-
-
-
-
 print "</tr>"; 
-
 }-->
 </center>
 </body></html>

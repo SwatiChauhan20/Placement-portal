@@ -108,7 +108,7 @@
           </div>
           <footer class="text-right">
           		<p>Copyright &copy; 2015 GEC-PMS | Developed by
-              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+              <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
 			  </p>
           </footer>
         </div>

@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!--favicon-->
-        <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-        <link rel="icon" href="favicon.ico" type="image/icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/icon">	
+<link rel="icon" href="favicon.ico" type="image/icon">
 <title>Drives :: About</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -82,14 +81,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="banner-bottom-grids a-banner-bottom-grids">
 				<div class="col-md-5 banner-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					<img src="images/a1.jpg" alt="">
+					<img src="images/tcs.jpg" alt="">
 				</div>
 				<div class="col-md-7 a-banner-bottom-text">
 					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					  <h3>Placement and Training Department</h3>
-						<h5></span></h5>
-						<p>GEC Rajkot was established by Government of Gujarat in the year 2004 with a vision to provide quality technical education to bring out technically competent, socially responsible, environmentally conscious and ethically sound engineers in tune with India’s vision to transform the nation into a developed country. Institute is located opposite to Kankot Village which is 15 minute drive from Rajkot City. Rajkot is central location of Saurashtra and Kutch region. This institute is approved by All India Council for Technical Education (AICTE) and affiliated to Gujarat Technological University, Ahmedabad. Institute offers programs in Electronics & Communication Engineering, Computer Engineering, Instrumentation and Control Engineering, Mechanical Engineering, Civil Engineering, Automobile Engineering and Electrical Engineering.
+					  <h3>Tata Consultancy Services</h3>
+						<h5><span>Information technology consulting company</span></h5>
+						<p>Tata Consultancy Services Limited is an Indian multinational information technology service, consulting company headquartered in Mumbai, Maharashtra. It is part of the Tata Group and operates in 46 countries.
 						</p>
+						<p><b>Founded:</b>1968</p>
+						<p><b>Revenue:</b>1,908 crores USD</p>
+						<p><b>Headquaters:</b>Mumbai</p>
+						<div class="btn btn-default btn-lg see-button hvr-shutter-out-horizontal">Apply</div>
 					</div>
 					
 				</div>
@@ -99,36 +102,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		
 		<div class="about-top">
 		<!-- container -->
-		<div class="container">
-			<div class="about-info wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-				
-			</div>
-			<div class="banner-bottom-grids a-banner-bottom-grids">
-				<div class="col-md-5 banner-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					<img src="images/a1.jpg" alt="">
-				</div>
-				<div class="col-md-7 a-banner-bottom-text">
-					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					  
-						<h5></span></h5>
-						<p>GEC Rajkot was established by Government of Gujarat in the year 2004 with a vision to provide quality technical education to bring out technically competent, socially responsible, environmentally conscious and ethically sound engineers in tune with India’s vision to transform the nation into a developed country. Institute is located opposite to Kankot Village which is 15 minute drive from Rajkot City. Rajkot is central location of Saurashtra and Kutch region. This institute is approved by All India Council for Technical Education (AICTE) and affiliated to Gujarat Technological University, Ahmedabad. Institute offers programs in Electronics & Communication Engineering, Computer Engineering, Instrumentation and Control Engineering, Mechanical Engineering, Civil Engineering, Automobile Engineering and Electrical Engineering. 
-						</p>
-					</div>
-					
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		<!-- //container -->
 	</div>
 	<!-- //about -->
 	<!-- about-bottom -->
-	<div class="about-bottom">
-		<!-- container -->
-		
-		<!-- //container -->
-	</div>
-	<!-- //about-bottom -->
+	<div class="about-bottom"></div>
+	<!-- //about-bottom -->	
 	<!-- team -->
 	
 	<!-- footer -->

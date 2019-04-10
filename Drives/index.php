@@ -23,6 +23,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,800,700,600'
 		rel='stylesheet' type='text/css'>
 		<!--/fonts-->
+		<link rel="stylesheet" type="text/css" href="css/base.css">
+		<link rel="stylesheet" type="text/css" href="css/layout.css">
+		<link rel="stylesheet" type="text/css" href="css/skeleton.css">
+
 		<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
 		<script src="js/wow.min.js"></script>
 		<script>
@@ -128,31 +132,86 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 		<!-- //banner -->
+		<!-- plcaed student section start -->
+		<div class="team" id="team">
+    <div class="container">
+    
+        <div class="sixteen columns">
+        
+         <h2>Recently Placed Students</h2>
+         <hr>
+         <p class="center">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+         
+         <div class="four columns alpha member">
+         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <h4>Swati Chauhan</h4>
+         <h6>Rao Information Technology</h6>
+         <p class="center" style="margin: 0px;">Computer Department</p>
+         <p class="center" style="margin: 0px;">Package: 2 lac</p>
+         </div>
+         
+         <div class="four columns alpha member">
+         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <h4>Rachana Gohel</h4>
+         <h6>WebMob Technology</h6>
+         <p class="center" style="margin: 0px;">Computer Department</p>
+         <p class="center" style="margin: 0px;">Package: 2 lac</p>
+         </div>
+         
+         <div class="four columns alpha member">
+         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <h4>Vishal Pankhaniya</h4>
+         <h6>TCS</h6>
+         <p class="center" style="margin: 0px;">Computer Department</p>
+         <p class="center" style="margin: 0px;">Package: 3.5 lac</p>
+         </div>
+         
+         <div class="four columns alpha member">
+         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <h4>Parth Sardhara</h4>
+         <h6>Bacancy Technology</h6>
+         <p class="center" style="margin: 0px;">Computer Department</p>
+         <p class="center" style="margin: 0px;">Package: 2 lac</p>
+         </div>
+         
+         </div>
+        
+    </div>
+</div>
+
+<!-- placed student section over -->
 		<!-- banner-bottom -->
 		<div class="banner-bottom">
-			<!-- container -->
-			<div class="container">
-				<div class="banner-bottom-grids">
-					<div class="col-md-7 banner-bottom-grid-text">
-						<div class="jumbotron banner-bottom-left wow fadeInLeft animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;	">
-							<h3>Latest Drive</h3>
-							<h5>Drive Description
-								<span>ABC Corporation</span>
-							</h5>
-							<p>Few Lines about Drive</p>
-							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-5 banner-bottom-right wow fadeInRight animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-						<img src="images/2 (3).png" alt="" />
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!-- //container -->
 		</div>
+		<div class="skills" id="skills">
+    <div class="container">
+    
+        <div class="sixteen columns">
+        
+         <h2 class="white">Departmentwise Placed Student's Ratio</h2>
+         <hr class="white">
+         <p class="white center">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+         
+         
+         <ul id="skillbar">
+			    <h4>COMPUTER</h4>
+	            <li><span class="skillbar html"></span></li>
+	            <h4>ELECTRONICS & COMMUNICATION</h4>
+	            <li><span class="skillbar css"></span></li>
+	            <h4>CIVIL</h4>
+	            <li><span class="skillbar java"></span></li>
+	            <h4>MECHANICAL</h4>
+	            <li><span class="skillbar php"></span></li>
+	            <h4>IC</h4>
+	            <li><span class="skillbar psd"></span></li>
+	            <h4>ELETRICAL</h4>
+	            <li><span class="skillbar java"></span></li>
+            </ul>
+         
+         </div>
+        
+    </div>
+</div>
 		<!-- //banner-bottom -->
 		<!-- specialty -->
 		<div class="specialty">
@@ -287,8 +346,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					 <p>Copyright &copy; 2015 GEC-PMS | Developed by
-              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+					 <p>Copyright &copy; 2019 GEC-PMS | Developed by
+              <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>

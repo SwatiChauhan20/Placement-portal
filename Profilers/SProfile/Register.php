@@ -109,39 +109,6 @@ if(isset($_POST['submit'])){
 								<div class="next_step_and_prev_step">
 									<a href="javascript:void(0);" class="next_step">Next</a>
 								</div>
-								<div class="form_input">
-									<label>Enrollment Number*</label>
-									<input type="text" class="input_text" placeholder="Enrollment Number">
-								</div>
-								<div class="form_input">
-									<label>Full Name *</label>
-									<input type="text" class="input_text" placeholder="Enter FullName">
-								</div>
-								<div class="form_input">
-									<label>Email *</label>
-									<input type="text" class="input_text" placeholder="Enter your email">
-								</div>
-								<div class="form_input">
-									<label>Mobile Number *</label>
-									<input type="text" class="input_text" placeholder="Enter Mobile Number">
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Create Password *</label>
-											<input type="password" class="input_text" placeholder="*****">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Confirm Password *</label>
-											<input type="password" class="input_text" placeholder="*****">
-										</div>
-									</div>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -199,60 +166,6 @@ if(isset($_POST['submit'])){
 								<div class="form_input">
 									<label>Area of Interest *</label>
 									<input type="text" required="required" name="interestArea" class="input_text">
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Semester *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Department *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>10th/ 12th *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>CPI/SPI *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Backlog *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Current Backlog *</label>
-											<input type="text" class="input_text">
-										</div>
-									</div>
-								</div>
-								<div class="form_input">
-									<label>Technology *</label>
-									<input type="text" class="input_text" placeholder="java/php/node/....">
-								</div>
-								<div class="form_input">
-									<label>Job Location *</label>
-									<input type="text" class="input_text" placeholder="Rajkot/Ahemadabad/....">
-								</div>
-								<div class="form_input">
-									<label>Area of Interest *</label>
-									<input type="text" class="input_text">
 								</div>
 								<div class="next_step_and_prev_step">
 									<a href="javascript:void(0);" class="prev_step">Previous</a>
@@ -322,62 +235,6 @@ if(isset($_POST['submit'])){
 									<a href="javascript:void(0);" class="prev_step">Previous</a>
 									<a href="javascript:void(0);" class="next_step">Next</a>
 								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>First Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Last Name *</label>
-											<input type="text" class="input_text" placeholder="Enter first name">
-										</div>
-									</div>
-								</div>
-								<div class="form_input">
-									<label>Phone Number *</label>
-									<input type="text" class="input_text" placeholder="Enter phone number">
-								</div>
-								<div class="form_input">
-									<label>Address *</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="form_input">
-									<label>Address Line 2</label>
-									<input type="text" class="input_text" placeholder="Enter address">
-								</div>
-								<div class="row">
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>City *</label>
-											<input type="text" class="input_text" placeholder="Enter city">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>State *</label>
-											<input type="text" class="input_text" placeholder="Enter state">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Zip Code *</label>
-											<input type="text" class="input_text" placeholder="Enter zip code">
-										</div>
-									</div>
-									<div class="col-sm-6">
-										<div class="form_input">
-											<label>Country *</label>
-											<input type="text" class="input_text" placeholder="Enter Country">
-										</div>
-									</div>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<a href="javascript:void(0);" class="next_step">Next</a>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -396,16 +253,6 @@ if(isset($_POST['submit'])){
 									<a href="javascript:void(0);" class="prev_step">Previous</a>
 									<input type="submit" class="reg_submit_btn" name="submit" value="Register">
 								</div>
-								<div class="row">
-									<div class="form_input">
-										<label>Other Activity *</label>
-										<textarea class="input_text" style="resize: none; height: 100px;" placeholder="Extra Activity / Session / Workshop" ></textarea>
-									</div>
-								</div>
-								<div class="next_step_and_prev_step">
-									<a href="javascript:void(0);" class="prev_step">Previous</a>
-									<input type="submit" class="reg_submit_btn" value="Register">
-								</div>
 							</div>
 						</div>
 					</div>
@@ -413,77 +260,6 @@ if(isset($_POST['submit'])){
 			</form>
 		</div>
 	</section>
-
-	<!-- <div class="templatemo-content-widget templatemo-login-widget white-bg">
-			<header class="text-center">
-	          <div class="square"></div>
-	          <h1>Student Register</h1>
-	        </header>
-	        <form method="POST" class="templatemo-login-form" action="reg.php">
-	        	<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<input type="text" name="Fullname" class="form-control" placeholder="FullName*" >           
-		          	</div>	
-	        	</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<input type="text" name="USN" class="form-control" placeholder="USN*" >           
-		          	</div>	
-	        	</div>
-	        	<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>	        		
-		              	<input type="password" name="PASSWORD" class="form-control" placeholder="******" >           
-		          	</div>	
-	        	</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-key fa-fw"></i></div>	        		
-		              	<input type="password" name="repassword" class="form-control" placeholder="Retype Password" >           
-		          	</div>	
-				</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<input type="text" name="Email" class="form-control" placeholder="Email*" >           
-		          	</div>					
-	        	</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<select type="text" name="Question" class="form-control" placeholder="Security Question*" > 
-								<option value="What is your nickname?">What is your nickname?</option>
-								<option value="What is your fav spot?">What is your fav spot?</option>
-							<option value="What is your fav dish?">What is your fav dish?</option>
-							<option value="What is your dream land address?">What is your dream land address?</option>							
-		          	<option value="What is your first mobile number?">What is your first mobile number?</option>	
-						<option value="What is your one truth which ohers donot know?">What is your one truth which ohers donot know?</option>
-								<option value="What is your detained years in life?">What is your detained years in life?</option>
-						<option value="What is your enemy name?">What is your enemy name?</option>
-						<option value="What is your pet name?">What is your petname?</option>
-					</div>	
-					
-	        	</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<input type="text" name="Answer" class="form-control" placeholder="Answer*" >           
-		          	</div>	
-	        	</div>
-				
-				
-				<div class="form-group">
-					<button type="submit" name="submit" class="templatemo-blue-button width-100">Register</button>
-				</div>
-	        </form>
-		</div>
-		
-		<div class="templatemo-content-widget templatemo-login-widget templatemo-register-widget white-bg">
-			<p>Have an Account? <strong><a href="index.php" class="blue-text">Sign in here!</a></strong></p>
-		</div> -->
-		<!--footer-->
 		<div class="footer">
 			<div class="container">
 				<div class="col-md-3 ftr_navi ftr">
@@ -535,7 +311,7 @@ if(isset($_POST['submit'])){
 				</div>
 				<div class="col-md-3 ftr-logo">
 					<p>Copyright &copy; 2019 GEC-PMS | Developed by
-						<a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+						<a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
 					</div>
 				</div>
 				<div class="clearfix"></div>

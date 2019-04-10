@@ -40,27 +40,6 @@
 		              	<input type="text" name="USN" class="form-control" placeholder="USN" >           
 		          	</div>	
 	        	</div>
-	        	<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<select type="text" name="Question" class="form-control" placeholder="Security Question" > 
-								<option value="What is your nickname?">What is your nickname?</option>
-								<option value="What is your fav spot?">What is your fav spot?</option>
-							<option value="What is your fav dish?">What is your fav dish?</option>
-							<option value="What is your dream land address?">What is your dream land address?</option>							
-		          	<option value="What is your first mobile number?">What is your first mobile number?</option>	
-						<option value="What is your one truth which ohers donot know?">What is your one truth which ohers donot know?</option>
-								<option value="What is your detained years in life?">What is your detained years in life?</option>
-						<option value="What is your enemy name?">What is your enemy name?</option>
-						<option value="What is your pet's name?">What is your pet's name?</option>
-					</div>	
-	        	</div>
-				<div class="form-group">
-	        		<div class="input-group">
-		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-		              	<input type="text" name="Answer" class="form-control" placeholder="Answer" >           
-		          	</div>	
-	        	</div>
 				<div class="form-group">
 					<button type="submit" class="templatemo-blue-button width-100">Send Request</button>
 				</div>

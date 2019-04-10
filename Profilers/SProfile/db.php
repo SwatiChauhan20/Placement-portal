@@ -1,12 +1,9 @@
 <?php
-header("Access-Control-Allow-Origin: *");
-header("Access-Control-Allow-Headers: *");
-header("Access-Control-Allow-Methods: PUT, GET, POST");
 // db credentials
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'password');
-define('DB_NAME', 'placementPortal');
+define('DB_PASS', '');
+define('DB_NAME', 'placement');
 
 // Connect with the database.
 function connect()

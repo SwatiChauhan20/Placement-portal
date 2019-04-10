@@ -15,7 +15,7 @@ if(isset($_POST["submit"]))
 	{  
 		$email = mysqli_real_escape_string($con, $_POST["email"]);  
 		$password = mysqli_real_escape_string($con, $_POST["password"]);  
-		$password = md5($password);  
+		//$password = md5($password);  
 		$query = "SELECT * FROM registeredUser WHERE email = '$email' AND password = '$password'";  
 		$result = mysqli_query($con, $query);  
 
@@ -135,7 +135,7 @@ if(isset($_POST["submit"]))
 				</div>
 				<div class="col-md-3 ftr-logo">
 					<p>Copyright &copy; 2019 GEC-PMS | Developed by
-						<a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+						<a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
 					</div>
 				</div>
 			</div>

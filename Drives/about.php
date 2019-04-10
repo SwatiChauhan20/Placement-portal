@@ -74,6 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	<!-- //banner -->
 	<!-- about -->
+
 	<div class="about-top">
 		<!-- container -->
 		<div class="container">
@@ -87,7 +88,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-7 a-banner-bottom-text">
 					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
-					  <h3>Placement and Training Department</h3>
+					  <h3>Placement Department</h3>
 						<h5></span></h5>
 						<p>GEC Rajkot was established by Government of Gujarat in the year 2004 with a vision to provide quality technical education to bring out technically competent, socially responsible, environmentally conscious and ethically sound engineers in tune with India’s vision to transform the nation into a developed country. Institute is located opposite to Kankot Village which is 15 minute drive from Rajkot City. Rajkot is central location of Saurashtra and Kutch region. This institute is approved by All India Council for Technical Education (AICTE) and affiliated to Gujarat Technological University, Ahmedabad. Institute offers programs in Electronics & Communication Engineering, Computer Engineering, Instrumentation and Control Engineering, Mechanical Engineering, Civil Engineering, Automobile Engineering and Electrical Engineering. 
 						</p>
@@ -103,11 +104,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="about-bottom">
 		<!-- container -->
 		<div class="container">
-			<h3 class="wow fadeInRight animated" style="visibility: visible;">A New Generation of CIT</h3>
+			<h3 class="wow fadeInRight animated" style="visibility: visible;">A New Generation of GEC</h3>
 			<div class="about-bottom-grids">
 				<div class="col-md-6 about-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					<h4>What We Offer?</h4>
-					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Science and Engineering, Electronics and communication, Electrical and Electronics, Civil, Mechanical, and 03  post graduate courses viz. M.Tech in Computer Science, The Institute has facilities for doctoral research in Computer Science and Electronics. 
+					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz.Computer Engineering department, Civil Department,EC Department, IC Department, Auto-Mobile Department, Mechanical department, post graduation viz. 
 					</p>
 				</div>
 				<div class="col-md-6 about-bottom-left about-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
@@ -129,25 +130,62 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="team-info">
 				<h3 class="wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Meet Our Team</h3>
 				<div class="team-grids">
-					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b7.jpg" alt="">
+						<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+							<div class="img_box">
+								<img src="images/b7.jpg" alt="">
+							</div>
 						<h6>Dhara Buch</h6>
 						<p>CE Department</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<div class="img_box">
 						<img src="images/b10.jpg" alt="">
-						<h6>Name</h6>
-						<p>Designation</p>
+					</div>
+						<h6>Prof. Mazhar Dhankot. </h6>
+						<p>Civil Department</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<div class="img_box">
 						<img src="images/b8.jpg" alt="">
-						<h6>Name</h6>
-						<p> Designation</p>
+					</div>
+						<h6>Prof Jay Pandya</h6>
+						<p>Elect & Comm</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-						<img src="images/b9.jpg" alt="">
-						<h6>Hitarth Buch</h6>
-						<p>TPO Incharge</p>
+						<div class="img_box">
+						<img src="images/mech.jpg" alt="">
+					</div>
+						<h6>Prof D J Marsonia</h6>
+						<p>Mech / Auto</p>
+					</div>
+					<div class="clearfix"> </div>
+					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+							<div class="img_box">
+								<img src="images/b7.jpg" alt="">
+							</div>
+						<h6>Dhara Buch</h6>
+						<p>CE Department</p>
+					</div>
+					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<div class="img_box">
+						<img src="images/b10.jpg" alt="">
+					</div>
+						<h6>Prof. Mazhar Dhankot. </h6>
+						<p>Civil Department</p>
+					</div>
+					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<div class="img_box">
+						<img src="images/b8.jpg" alt="">
+					</div>
+						<h6>Prof Jay Pandya</h6>
+						<p>Elect & Comm</p>
+					</div>
+					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
+						<div class="img_box">
+						<img src="images/ic.jpg" alt="">
+					</div>
+						<h6>Prof D J Marsonia</h6>
+						<p>IC</p>
 					</div>
 					<div class="clearfix"> </div>
 				</div>

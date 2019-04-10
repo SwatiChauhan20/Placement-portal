@@ -98,9 +98,7 @@ else {
             <h2 class="templatemo-inline-block">Welcome to GEC-PMS</h2>
             <hr>
             <p>Work is Magic and it defines you at every aspect of ur life. As you Work Hard u will become smart and the Irony is Every Smart worker will be a Successfull man where as worthless hardwork is like a monkey finding gold in a sea.
-              <<<<<<< HEAD
-              <a href="preferences.php">
-                target="_parent">Go and Fill your Details in Preferences Tab</a>
+              <a href="preferences.php">Go and Fill your Details in Preferences Tab</a>
               </p>
               <p>We have got number of Partners from the companies who are tied up to our college and it is Incresasing. We are doing our Job of getting u Placed and 
               Being a Student its your duty to acompolish ur responsibilities.</p>

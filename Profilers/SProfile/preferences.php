@@ -1,13 +1,4 @@
-<?php
-  session_start();
-  if($_SESSION["username"]){
-    echo "Welcome, ".$_SESSION['username']."!";
-  }
-   else {
-	   header("location: index.php");
-   die("You must be Log in to view this page <a href='index.php'>Click here</a>");}
-   
-?>
+  
 <!DOCTYPE html>
 <html lang="en">
   

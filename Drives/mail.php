@@ -77,7 +77,7 @@
 			<!-- container -->
 			<div class="container">
 				<div class="map footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<iframe src="https://www.google.com/maps/embed/v1/place?q=Sri%20Channabasaveshwara%20Institute%20of%20Technology%2C%20Harivesandra%2C%20Karnataka%2C%20India&key=AIzaSyATLPQdEcx47VybeMCQzR36pLuNuItNKP8"" frameborder="0" style="border:0"></iframe>
+					<iframe src="https://www.google.com/maps/embed/v1/place?q=Sri%20Channabasaveshwara%20Institute%20of%20Technology%2C%20Harivesandra%2C%20Karnataka%2C%20India&key=AIzaSyATLPQdEcx47VybeMCQzR36pLuNuItNKP8" frameborder="0" style="border:0"></iframe>
 				</div>
 				<div class="mail-grids">
 					<div class="col-md-6 mail-grid-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -162,8 +162,8 @@
 			<!-- container -->
 			<div class="container">
 				<div class="copyright-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<p>Copyright &copy; 2015 GEC-PMS | Developed by
-						<a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
+					<p>Copyright &copy; 2019 GEC-PMS | Developed by
+						<a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
 					</div>
 					<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<ul>
