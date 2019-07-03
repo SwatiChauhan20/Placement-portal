@@ -76,7 +76,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- container -->
 		<div class="container">
 			<div class="about-info wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-				<h3>A few words about us</h3>
+				<h3>A few words about our company</h3>
 				<h5>This is what tells about who we are and about Pioneers of the Institution </span></h5>
 			</div>
 			<div class="banner-bottom-grids a-banner-bottom-grids">
@@ -92,10 +92,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p><b>Founded:</b>1968</p>
 						<p><b>Revenue:</b>1,908 crores USD</p>
 						<p><b>Headquaters:</b>Mumbai</p>
-						<div class="btn btn-default btn-lg see-button hvr-shutter-out-horizontal">Apply</div>
+						<div class="btn btn-default btn-lg see-button hvr-shutter-out-horizontal" data-toggle="modal" data-target="#myModal">Apply</div>
 					</div>
 					
 				</div>
+
 				<div class="clearfix"> </div>
 			</div>
 		</div>
@@ -106,7 +107,64 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- //about -->
 	<!-- about-bottom -->
 	<div class="about-bottom"></div>
+	<div class="modal" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Apply Here</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+      	<div class="row">
+      		<div class="col-md-6">
+      			<input type="text" name="" placeholder="Name">
+      		</div>
+      		<div class="col-md-6">
+      			<input type="text" name="" placeholder="Email">
+      		</div>
+      		<div class="col-md-6">
+      			<input type="text" name="" placeholder="Semester">
+      		</div>
+      		<div class="col-md-6">
+      			<input type="text" name="" placeholder="SPI/CPI">
+      		</div>
+      		<div class="col-md-12">
+      			<input type="text" name="" placeholder="Other">
+      		</div>
+      	</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
 	<!-- //about-bottom -->	
+	<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 	<!-- team -->
 	
 	<!-- footer -->

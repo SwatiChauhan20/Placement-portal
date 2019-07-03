@@ -77,7 +77,7 @@
 			<!-- container -->
 			<div class="container">
 				<div class="map footer-middle wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<iframe src="https://www.google.com/maps/embed/v1/place?q=Sri%20Channabasaveshwara%20Institute%20of%20Technology%2C%20Harivesandra%2C%20Karnataka%2C%20India&key=AIzaSyATLPQdEcx47VybeMCQzR36pLuNuItNKP8" frameborder="0" style="border:0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.8524650950903!2d70.74104731425678!3d22.245675850498706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959cb0bae890265%3A0x791c3a55d1ba2885!2sGovernment+Engineering+College%2C+Rajkot!5e0!3m2!1sen!2sin!4v1554967939631!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
 				<div class="mail-grids">
 					<div class="col-md-6 mail-grid-left wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">

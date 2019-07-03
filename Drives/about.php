@@ -146,7 +146,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<div class="img_box">
-						<img src="images/b8.jpg" alt="">
+						<img src="images/Electronic&Comm jay pandya.jpg" alt="">
 					</div>
 						<h6>Prof Jay Pandya</h6>
 						<p>Elect & Comm</p>
@@ -161,14 +161,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="clearfix"> </div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 							<div class="img_box">
-								<img src="images/b7.jpg" alt="">
+								<img src="images/b8.jpg" alt="">
 							</div>
-						<h6>Dhara Buch</h6>
+						<h6>Hitarth Buch</h6>
 						<p>CE Department</p>
 					</div>
 					<div class="col-md-3 team-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 						<div class="img_box">
-						<img src="images/b10.jpg" alt="">
+						<img src="images/Auto Mechanicl Rupeshkumar Patel.jpg" alt="">
 					</div>
 						<h6>Prof. Mazhar Dhankot. </h6>
 						<p>Civil Department</p>

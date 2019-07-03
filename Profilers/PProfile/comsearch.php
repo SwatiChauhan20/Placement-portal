@@ -11,11 +11,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
- 
-            
-            <form action="COUNT2.php" class="templatemo-login-form" method="POST" enctype="multipart/form-data">
-			
-                              
+            <form action="COUNT2.php" class="templatemo-login-form" method="POST" enctype="multipart/form-data">            
 				<div class="col-lg-6 col-md-6 form-group">
                   <label for="sslc">Company Name</label>
                   <input type="text" name="cname" class="form-control" id="sslc" placeholder="">
@@ -26,13 +22,10 @@
                 <button type="reset" class="templatemo-white-button">Reset</button>
               </div>
             </form>
-          </div>     
-          
+          </div>    
           <footer class="text-right">
-            
 					<p>Copyright &copy; 2015 GEC-PMS | Developed by
-              <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a>
-			
+              <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a>
           </footer>      
         </div>
       </div>

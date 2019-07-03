@@ -58,16 +58,16 @@
 			   </tr>			   
  <?php		
 mysqli_connect('localhost','root','');
-mysqli_select_db('placement');
+mysqli_select_db($connect,'placement');
 if(isset($_POST['s1']))
 { 
 $Sname = $_POST['sname'];
-$RESULT = mysqli_query("SELECT count(*) FROM basicdetails WHERE  `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
+$RESULT = mysqli_query($connect,"SELECT count(*) FROM basicdetails WHERE  `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
 $data=mysqli_fetch_assoc($RESULT);
 echo "<br><h3>Number of Students with Name '$Sname'&nbsp:&nbsp";
 echo $data['count(*)'];
 echo "</h3>"; 
-$sql = mysqli_query("SELECT * FROM basicdetails WHERE `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
+$sql = mysqli_query($connect,"SELECT * FROM basicdetails WHERE `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
 while($row = mysqli_fetch_assoc($sql))
 {
 	            print "<tr>"; 	

@@ -105,13 +105,10 @@
 							<a href="../SProfile/index.php">Student Login</a>
 						</li>
 						<li>
-							<a href="../PProfile/index.php">Placement Login</a>
+							<a href="../PProfile/index.php">TPO Login</a>
 						</li>
 						<li>
-							<a href="../HODProfile/index.php">HOD Login</a>
-						</li>
-						<li>
-							<a href="../PriProfile/index.php">Administrative Login</a>
+							<a href="../HODProfile/index.php">Admin Login</a>
 						</li>
 					</ul>
 				</div>

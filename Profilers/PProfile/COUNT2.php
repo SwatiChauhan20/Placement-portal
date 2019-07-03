@@ -15,7 +15,7 @@
 <?php
 			
 mysqli_connect('localhost','root','');
-mysqli_select_db($con,'details');
+mysqli_select_db($connect,'details');
 if(isset($_POST['submit']))
 { 
 $cname = $_POST['cname'];

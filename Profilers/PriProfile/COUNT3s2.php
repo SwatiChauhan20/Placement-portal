@@ -38,13 +38,13 @@
    <div class="templatemo-content-container">
   <div class="templatemo-content-widget no-padding">
 <?php
-mysql_connect('localhost','root','');
-mysql_select_db('details');
+mysqli_connect('localhost','root','');
+mysqli_select_db($connect,'details');
 if(isset($_POST['s2']))
 { 
 $Susn = $_POST['susn'];
-$RESULT = mysql_query("SELECT * FROM basicdetails WHERE USN='$Susn'");
-$row = mysql_fetch_assoc($RESULT);
+$RESULT = mysqli_query($connect,"SELECT * FROM basicdetails WHERE USN='$Susn'");
+$row = mysqli_fetch_assoc($RESULT);
 echo "<br><h3>Details of Student '$Susn'&nbsp:&nbsp";
 echo "</h3>";
             print "<center><tr>"; 
@@ -81,7 +81,7 @@ print "</td></tr></center>";
 ?>
 <footer class="text-right">
             <p>Copyright &copy; 2001-2019 GEC-PMS
-            |  Developed by <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a></p>
+            |  Developed by <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a></p>
           </footer>         
         </div>
       </div>

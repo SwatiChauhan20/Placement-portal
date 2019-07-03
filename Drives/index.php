@@ -143,7 +143,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
          <p class="center">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
          
          <div class="four columns alpha member">
-         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <img id="zoom" class="center scale-with-grid" src="images/aa.jpg">
          <h4>Swati Chauhan</h4>
          <h6>Rao Information Technology</h6>
          <p class="center" style="margin: 0px;">Computer Department</p>
@@ -159,7 +159,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
          </div>
          
          <div class="four columns alpha member">
-         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <img id="zoom" class="center scale-with-grid" src="images/b10.jpg">
          <h4>Vishal Pankhaniya</h4>
          <h6>TCS</h6>
          <p class="center" style="margin: 0px;">Computer Department</p>
@@ -167,7 +167,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
          </div>
          
          <div class="four columns alpha member">
-         <img id="zoom" class="center scale-with-grid" src="images/b9.jpg">
+         <img id="zoom" class="center scale-with-grid" src="images/b8.jpg">
          <h4>Parth Sardhara</h4>
          <h6>Bacancy Technology</h6>
          <p class="center" style="margin: 0px;">Computer Department</p>

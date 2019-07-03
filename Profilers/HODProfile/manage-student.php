@@ -93,9 +93,6 @@
               <table class="table table-striped table-bordered templatemo-user-table">
                 <thead>
                   <tr>
-              
-                     
-                    
 					<td><a  class="white-text templatemo-sort-by">First Name </a></td>
                     <td><a class="white-text templatemo-sort-by">Last Name </a></td>
                     <td><a class="white-text templatemo-sort-by">USN</a></td>
@@ -116,8 +113,8 @@
 			   <?php
 $p = $_SESSION['department'];
 $num_rec_per_page=15;
-mysql_connect('localhost','root','');
-mysql_select_db('details');
+mysqli_connect('localhost','root','');
+mysqli_select_db($connect'details');
 if (isset($_GET["page"])) { $page  = $_GET["page"]; } else { $page=1; }; 
 $start_from = ($page-1) * $num_rec_per_page; 
 $sql = "SELECT * FROM basicdetails WHERE Approve=0 and Branch='$p' LIMIT $start_from, $num_rec_per_page"; 

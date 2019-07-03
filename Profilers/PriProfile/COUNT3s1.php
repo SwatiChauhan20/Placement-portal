@@ -56,18 +56,18 @@
 				  </thead>
 			   </tr>			   
  <?php		
-mysql_connect('localhost','root','');
-mysql_select_db('details');
+mysqli_connect('localhost','root','');
+mysqli_select_db($connect,'details');
 if(isset($_POST['s1']))
 { 
 $Sname = $_POST['sname'];
-$RESULT = mysql_query("SELECT count(*) FROM basicdetails WHERE  `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
-$data=mysql_fetch_assoc($RESULT);
+$RESULT = mysqli_query($connect,"SELECT count(*) FROM basicdetails WHERE  `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
+$data=mysqli_fetch_assoc($RESULT);
 echo "<br><h3>Number of Students with Name '$Sname'&nbsp:&nbsp";
 echo $data['count(*)'];
 echo "</h3>"; 
-$sql = mysql_query("SELECT * FROM basicdetails WHERE `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
-while($row = mysql_fetch_assoc($sql))
+$sql = mysqli_query($connect,"SELECT * FROM basicdetails WHERE `Approve`='1' AND (`FirstName` LIKE '%$Sname%' or `LastName` LIKE '%$Sname%')");
+while($row = mysqli_fetch_assoc($sql))
 {
 	            print "<tr>"; 	
     echo '<td>'.$row['FirstName'].'</td>';	
@@ -94,8 +94,8 @@ print "</tr>";
 			  </div>
 			  </div>
  <footer class="text-right">
-            <p>Copyright &copy; 2001-2019 GEC-PMS
-            |  Developed by <a href="#" target="_parent">SWati Chauhan || Rachna Gohel</a></p>
+            <p>Copyright &copy;2019 GEC-PMS
+            |  Developed by <a href="#" target="_parent">Swati Chauhan || Rachana Gohel</a></p>
           </footer>         
         </div>
       </div>

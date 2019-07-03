@@ -63,7 +63,7 @@ if(isset($_POST["submit"]))
 				<div class="form-group">
 					<div class="input-group">
 						<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		
-						<input type="text" class="form-control" placeholder="USN" name="email">
+						<input type="text" class="form-control" placeholder="Email" name="email">
 					</div>	
 				</div>
 				<div class="form-group">
@@ -96,13 +96,10 @@ if(isset($_POST["submit"]))
 							<a href="../SProfile/index.php">Student Login</a>
 						</li>
 						<li>
-							<a href="../PProfile/index.php">Placement Login</a>
+							<a href="../PProfile/index.php">TPO Login</a>
 						</li>
 						<li>
-							<a href="../HODProfile/index.php">HOD Login</a>
-						</li>
-						<li>
-							<a href="../PriProfile/index.php">Principal Login</a>
+							<a href="../HODProfile/index.php">Admin Login</a>
 						</li>
 					</ul>
 				</div>
